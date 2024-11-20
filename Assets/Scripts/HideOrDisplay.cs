@@ -6,7 +6,7 @@ public class HideOrDisplay : MonoBehaviour
     [SerializeField]
     InputAction hideOrDisplay = new InputAction(type: InputActionType.Button);
 
-    private Renderer rendererComponent;   
+    private Renderer rendererComponent;
 
     private void OnEnable()
     {
