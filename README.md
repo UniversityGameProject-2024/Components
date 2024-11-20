@@ -4,8 +4,7 @@
 ## חלק א - רכיבים
 קישור למשחק:
 
-[
-](https://wnikita.itch.io/week-assignment-2-httpsmediaidownloadblogcomwp-contentuploads201807apple-logo-bl)
+https://wnikita.itch.io/week-assignment-2-httpsmediaidownloadblogcomwp-contentuploads201807apple-logo-bl
 
 ---
 ## חלק ב - מצלמות ונקודות מבט
