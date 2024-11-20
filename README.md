@@ -6,6 +6,8 @@
 
 https://wnikita.itch.io/week-assignment-2-httpsmediaidownloadblogcomwp-contentuploads201807apple-logo-bl
 
+https://github.com/UniversityGameProject-2024/Components
+
 ---
 ## חלק ב - מצלמות ונקודות מבט
 
