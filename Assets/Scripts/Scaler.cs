@@ -6,7 +6,7 @@ public class Scaler : MonoBehaviour
     [SerializeField]
     private float inflateSpeed = 1.0f;
 
-    [Header("This is the range of scale")]    
+    [Header("This is the range of scale")]
     [SerializeField]
     private float scaleRange = 5.0f;
 
